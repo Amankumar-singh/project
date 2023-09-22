@@ -1,6 +1,9 @@
- # Monty Hall problem
+ # Stroke_Prediction
 
-"Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?"
+"Stroke is the second leading cause of death worldwide, with a mortality rate of 5.5 million per year. Early identification of stroke warning signs is crucial for reducing its severity.
+This study proposes various Machine learning which offer valuable insights into the potential for early stroke prediction.
+Identifying stroke warning signs and employing predictive models can play a crucial role in reducing stroke severity and preventing up to 80% of cases, emphasizing the importance of early detection and intervention in stroke prevention strategies.
+"
 
 source: [https://en.wikipedia.org/wiki/Monty_Hall_problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
